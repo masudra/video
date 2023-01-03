@@ -1,0 +1,34 @@
+
+
+#video1{
+    width:500px;
+    height:300px;
+}
+#video2{
+    width:500px;
+    height:300px;
+}
+h1{
+    background-image:url(masudr.jpg);
+    background-color: bisque;
+    height: 500px;
+    font-size: 50px;
+    text-align: center;
+    color: #ff0000;
+
+}
+#pim{
+    color: brown;
+    text-align: center;
+    font-size: 50px;
+}
+
+#ppr{
+    color: blue;
+    font-size: 30px;
+    font-family:initial ;
+}
+#span1{
+    color: #ff0000;
+    font-style: italic;
+}
